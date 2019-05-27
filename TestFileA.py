@@ -9,3 +9,5 @@ pi = 3.14
 name = "Isa"
 check1 = True
 
+if 5+6 = 11: ##added by paul
+    print(hello) 
