@@ -12,8 +12,6 @@ check1 = True
 if 5 + 6 == 11: #added by paul
     print("hello")
 
-    
-    
 lyric1 = "Never gonna give you up"
 lyric2 = "Never gonna let you down"
 lyric3 = "Never gonna run around and desert you"
@@ -21,6 +19,3 @@ lyric4 = "Never gonna make you cry"
 lyric5 = "Never gonna say goodbye"
 lyric6 = "Never gonna tell a lie and hurt you"
 print(lyric1, lyric2, lyric3, lyric4, lyric5, lyric6)
-
-if check1 == True:
-    r1 = "Rickrolled"
