@@ -25,3 +25,5 @@ sneak2 = "Ho ho ho"
 
 if check1 == True:
     print(name, sneak1, sneak2)
+    if check1 == True:
+        print(lyric1, lyric2, lyric3, lyric4, lyric5, lyric6)
