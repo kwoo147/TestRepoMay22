@@ -17,7 +17,7 @@ name3 = "Ethan"
 
 computer = "Macbook"
 
-
+name5 = "Not not isa"
 
 if 5 + 6 == 11: #added by paul
     print("hello")
