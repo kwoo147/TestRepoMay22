@@ -10,6 +10,7 @@ name = "Isa"
 check1 = True
 
 name2 = "Mr. Woo"
+movie = "My favourite movie is Top Gun"
 
 
 if 5 + 6 == 11: #added by paul
