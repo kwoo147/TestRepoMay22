@@ -8,7 +8,9 @@ PROGRAMMER: VLC ICS4U Computer Science Class - K. Woo
 pi = 3.14
 name = "Isa"
 check1 = True
+
 name2 = "Mr. Woo"
+
 
 if 5 + 6 == 11: #added by paul
     print("hello")
