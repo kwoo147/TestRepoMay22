@@ -15,6 +15,8 @@ movie = "My favourite movie is Top Gun"
 
 name3 = "Ethan"
 
+computer = "Macbook"
+
 
 
 if 5 + 6 == 11: #added by paul
