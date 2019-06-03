@@ -10,7 +10,7 @@ name = "Isa"
 check1 = True
 
 name2 = "Mr. Woo"
-
+movie = "Favourite Movie: Shrek"
 
 if 5 + 6 == 11: #added by paul
     print("hello")
